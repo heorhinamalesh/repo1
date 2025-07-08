@@ -1,7 +1,7 @@
 This is my new feature code
 
 My name is ....
-
+commit test
 Again change info in added file
 
 789.
